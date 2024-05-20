@@ -1,0 +1,2 @@
+ALTER TABLE Mascotas
+ALTER COLUMN FOTO nvarchar(255);
